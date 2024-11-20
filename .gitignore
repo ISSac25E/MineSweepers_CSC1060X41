@@ -1,0 +1,10 @@
+# ignore everything
+*
+
+# except:
+!.gitignore
+!*/
+!*.h
+!*.c
+!*.cpp
+!*.md
